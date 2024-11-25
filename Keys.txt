@@ -1,1 +1,2 @@
-MachaxHamada
+# Ini adalah file rahasia
+Password: Hamada12
